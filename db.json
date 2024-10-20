@@ -1,0 +1,146 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Adam ",
+      "role": "Admin",
+      "username": "Adam",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "name": "Sree",
+      "role": "Employee",
+      "username": "sree",
+      "password": "pass123"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "role": "Employee",
+      "username": "charlie.brown",
+      "password": "employeepass"
+    },
+    {
+      "id": "4",
+      "name": "Diana Ross",
+      "role": "Employee",
+      "username": "diana.ross",
+      "password": "employeepass"
+    },
+    {
+      "id": "5",
+      "name": "Eva Green",
+      "role": "Employee",
+      "username": "eva.green",
+      "password": "employeepass"
+    },
+    {
+      "id": "6",
+      "name": "Frank Sinatra",
+      "role": "Employee",
+      "username": "frank.sinatra",
+      "password": "employeepass"
+    },
+    {
+      "id": "7",
+      "name": "Grace Hopper",
+      "role": "Admin",
+      "username": "grace.hopper",
+      "password": "adminpass"
+    },
+    {
+      "id": "8",
+      "name": "Hank Williams",
+      "role": "Employee",
+      "username": "hank.williams",
+      "password": "employeepass"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "reviewerId": 1,
+      "revieweeId": 2,
+      "feedback": "Sree consistently meets deadlines.",
+      "reviewerName": "Adam",
+      "revieweeName": "Sree"
+    },
+    {
+      "id": "4",
+      "reviewerId": 7,
+      "revieweeId": 8,
+      "feedback": "Hank is highly efficient in task management.",
+      "reviewerName": "Grace Hopper",
+      "revieweeName": "Hank Williams"
+    },
+    {
+      "id": "6",
+      "reviewerId": 4,
+      "revieweeId": 3,
+      "feedback": "Charlie is proactive and takes initiative.",
+      "reviewerName": "Diana Ross",
+      "revieweeName": "Charlie Brown"
+    },
+    {
+      "id": "7",
+      "reviewerId": 6,
+      "revieweeId": 5,
+      "feedback": "Eva is meticulous in her work and very organized.",
+      "reviewerName": "Frank Sinatra",
+      "revieweeName": "Eva Green"
+    },
+    {
+      "id": "8",
+      "reviewerId": 4,
+      "revieweeId": 2,
+      "feedback": "Great job, Sree! Keep it up.",
+      "reviewerName": "Diana Ross",
+      "revieweeName": "Sree"
+    },
+    {
+      "id": "9",
+      "reviewerId": 1,
+      "revieweeId": 3,
+      "feedback": "Charlie shows great potential and always seeks feedback to improve.",
+      "reviewerName": "Adam",
+      "revieweeName": "Charlie Brown"
+    },
+    {
+      "id": "10",
+      "reviewerId": 2,
+      "revieweeId": 5,
+      "feedback": "Eva has a positive attitude and works well under pressure.",
+      "reviewerName": "Sree",
+      "revieweeName": "Eva Green"
+    },
+    {
+      "id": "11",
+      "reviewerId": 3,
+      "revieweeId": 4,
+      "feedback": "Diana is a team player and always supports her colleagues.",
+      "reviewerName": "Charlie Brown",
+      "revieweeName": "Diana Ross"
+    },
+    {
+      "id": "12",
+      "reviewerId": 5,
+      "revieweeId": 6,
+      "feedback": "Frank demonstrates excellent problem-solving skills.",
+      "reviewerName": "Eva Green",
+      "revieweeName": "Frank Sinatra"
+    },
+    {
+      "id": "ac82",
+      "reviewerId": 1,
+      "revieweeId": "4",
+      "feedback": "Smart work..!Diana."
+    },
+    {
+      "id": "1f4f",
+      "reviewerId": "2",
+      "revieweeId": "4",
+      "feedback": "Smart work Diana..!"
+    }
+  ]
+}
